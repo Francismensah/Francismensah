@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fmorkehmensah" target="blank"><img src="https://img.shields.io/twitter/follow/fmorkehmensah?logo=twitter&style=for-the-badge" alt="fmorkehmensah" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, PERN**
+- 🌱 My stack is  **NodeJS, PostgreSQL, Reactjs, Expressjs**
 
 - 📫 How to reach me **francismensah11111@gmail.com**
 
