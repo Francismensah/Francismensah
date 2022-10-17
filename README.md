@@ -9,7 +9,7 @@
 
 - 🌱 My stack is  **NodeJS, PostgreSQL, Reactjs, Expressjs**
 
-- 📫 How to reach me **francismensah11111@gmail.com**
+- 📫 How to reach me **codewithmorkeh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
