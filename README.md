@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Morkeh Mensah</h1>
-<h3 align="center">I am an IT professional with extensive experience in DevOps engineering, automation, infrastructure engineering, and cloud computing. I am highly skilled in these areas and have a passion for learning new skills and technologies. I am confident that my expertise and drive to expand my knowledge make me an ideal candidate for any IT related position.</h3>
+<h3 align="center">I am an IT professional with extensive experience in software engineering. I am highly skilled in these areas and have a passion for learning new skills and technologies. I am confident that my expertise and drive to expand my knowledge make me an ideal candidate for any IT related position.</h3>
 
-- 📫 How to reach me **francismensah11111@gmail.com**
+- 📫 How to reach me **codewithmorkeh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
